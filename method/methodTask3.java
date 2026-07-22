@@ -1,4 +1,4 @@
-public class methodTask3{
+public class methodTask3{b
 	public static double halving (double a){
 	double half = a / 2;
 	return half;
